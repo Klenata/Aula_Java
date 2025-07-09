@@ -22,7 +22,6 @@ public class TesteRetangulo {
 		System.out.println(retangulo1.calcularPerimetro());
 		System.out.println(retangulo2.calcularArea());
 		System.out.println(retangulo2.calcularPerimetro());
-		
 
 	}
 
