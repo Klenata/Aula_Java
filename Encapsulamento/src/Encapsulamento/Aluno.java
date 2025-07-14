@@ -2,8 +2,7 @@ package Encapsulamento;
 
 public class Aluno {
 	private String nome;
-	private double nota1, nota2, media;
-	media = (nota1+nota2)/2;
+	private double nota1, nota2, media = (nota1+nota2)/2;
 	
 	public String getNome() {
 		return nome;
